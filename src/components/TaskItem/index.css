@@ -1,0 +1,27 @@
+.taskBox {
+  background-color: #1a171d;
+  padding: 2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin: 20px;
+}
+.tagsbtn {
+  background-color: #f3aa4e;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border-style: solid;
+  align-self: center;
+  border-width: 0px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.userTaskText {
+  color: white;
+  font-family: 'Roboto';
+  font-weight: bold;
+}

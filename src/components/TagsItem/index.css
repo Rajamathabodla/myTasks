@@ -1,0 +1,8 @@
+.buttonisSelected {
+  background-color: black;
+  border: #f3aa4e 2px solid;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  margin: 20px;
+}
